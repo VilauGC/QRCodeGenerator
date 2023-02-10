@@ -1,0 +1,11 @@
+div {
+  text-align: center;
+}
+
+.myInput {
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  height: 24px;
+  width: 200px;
+  margin-bottom: 32px;
+}
